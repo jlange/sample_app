@@ -1,1 +1,1 @@
-This is just a sample rails application.
+This is just a sample rails application. Test edit
